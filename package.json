@@ -18,8 +18,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "git clone https://github.com/mruniquehacker/Knightbot-MD.git
-cd Knightbot-MD",
+  "author": "git clone https://github.com/mrunique",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
